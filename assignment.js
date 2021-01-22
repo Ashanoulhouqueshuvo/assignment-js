@@ -5,12 +5,10 @@ function kilometerToMeter(value)
   return kilo;
 }
 var distance=kilometerToMeter(1);
-console.log(distance);
+//console.log(distance);
 
 
-//var mobile=100;
-//var watch=50;
-//var laptop=500;
+
 function budgetCalculator(value1,value2,value3)
 {
  mobile=value1*100;
@@ -24,7 +22,7 @@ return totalAmount;
 
 }
 var finalAmount=budgetCalculator(150,60,600)
-console.log(finalAmount);
+//console.log(finalAmount);
 
 
 
@@ -59,7 +57,7 @@ return rent;
 
 }
 var amount=hotelCost(14);
-console.log(amount);
+//console.log(amount);
 
 
 
@@ -83,5 +81,5 @@ return max;
 
 
 }
-var output=megaFriend(['shuvo','trisha','protiva','bangladesh']);
-console.log(output);
+var output=megaFriend(['shuvo','Ahsanoul Houque','united state of america','bangladesh']);
+//console.log(output);
